@@ -4,9 +4,10 @@ Este repositório contém duas análises exploratórias da base de dados públic
 
 ---
 
-## 📁 Estrutura do Projeto
+### 📁 Estrutura do Projeto
 
-```BigData-Senai/
+```text
+BigData-Senai/
 ├── Introducao_spark/
 ├── Importando_arquivo_CSV/
 ├── Consumindo_Api_test/
@@ -25,7 +26,9 @@ Este repositório contém duas análises exploratórias da base de dados públic
 │   ├── Analise_De_Acidentes_2024_.py         # Script da análise 1
 │   └── Analise_De_Acidentes_2024_v2.py       # Script da análise 2
 ├── notebooks/
-└── Script/```
+└── Script/
+```
+
 
 
 > 🔍 Os projetos finais estão localizados na pasta `6-Projeto`.
