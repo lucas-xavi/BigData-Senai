@@ -1,0 +1,51 @@
+Id,nome funcionario,idade,endereco,cargo,salario,datanascimento,ferias vencida
+1,Lauren Gordon,32,"2854 Brooks Ramp South Monicastad, KY 74062","Development worker, international aid",115897.44,1992-07-28,False
+2,Carol Phillips,45,"192 Sarah Common Suite 873 West Derek, MP 23716",Actor,98586.29,1979-01-19,False
+3,Ian Mayer,38,"638 Alvarez Squares Kristenton, AR 31133",Education administrator,116251.84,2004-04-21,True
+4,Patrick Brown,37,"792 Mcdonald Union Suite 192 Courtneytown, KS 77153",Broadcast presenter,105273.76,1964-03-25,False
+5,Elizabeth Bell,59,"89831 Montes Forks Suite 698 North Georgeside, ME 36408",Dispensing optician,94982.32,1979-02-26,False
+6,Kimberly Lawson,42,"078 Preston Via Apt. 481 Port Marcusview, PA 48422",Tree surgeon,105298.63,2000-09-18,False
+7,Emily Davis,31,"2345 Maple Lane, Star City, TX 75001",HR specialist,62000.00,1993-12-05,True
+8,James Brown,50,"6789 Birch Boulevard, Central City, CA 90210",Project manager,105000.00,1974-07-18,False
+9,Linda Wilson,27,"3456 Cedar Street, Coast City, FL 33101",Graphic designer,55000.00,1997-11-30,True
+10,Robert Martinez,36,"7890 Spruce Drive, Keystone City, PA 19001",Sales executive,70000.00,1988-04-25,False
+11,Patricia Taylor,45,"1234 Elm Street, Springfield, IL 62704",Software developer,75000.00,1990-05-15,False
+12,Michael Anderson,38,"5678 Oak Avenue, Metropolis, NY 10001",Marketing manager,85000.00,1995-08-22,True
+13,Jennifer Thomas,32,"9101 Pine Road, Gotham, NJ 07001",Financial analyst,95000.00,1982-03-10,False
+14,William Jackson,29,"2345 Maple Lane, Star City, TX 75001",HR specialist,62000.00,1993-12-05,True
+15,Elizabeth White,41,"6789 Birch Boulevard, Central City, CA 90210",Project manager,105000.00,1974-07-18,False
+16,Charles Harris,34,"3456 Cedar Street, Coast City, FL 33101",Graphic designer,55000.00,1997-11-30,True
+17,Barbara Clark,47,"7890 Spruce Drive, Keystone City, PA 19001",Sales executive,70000.00,1988-04-25,False
+18,Daniel Lewis,39,"1234 Elm Street, Springfield, IL 62704",Software developer,75000.00,1990-05-15,False
+19,Susan Robinson,28,"5678 Oak Avenue, Metropolis, NY 10001",Marketing manager,85000.00,1995-08-22,True
+20,Paul Walker,33,"9101 Pine Road, Gotham, NJ 07001",Financial analyst,95000.00,1982-03-10,False
+21,Nancy Hall,30,"2345 Maple Lane, Star City, TX 75001",HR specialist,62000.00,1993-12-05,True
+22,George Allen,44,"6789 Birch Boulevard, Central City, CA 90210",Project manager,105000.00,1974-07-18,False
+23,Karen Young,37,"3456 Cedar Street, Coast City, FL 33101",Graphic designer,55000.00,1997-11-30,True
+24,Steven King,46,"7890 Spruce Drive, Keystone City, PA 19001",Sales executive,70000.00,1988-04-25,False
+25,Donna Wright,35,"1234 Elm Street, Springfield, IL 62704",Software developer,75000.00,1990-05-15,False
+26,Edward Scott,40,"5678 Oak Avenue, Metropolis, NY 10001",Marketing manager,85000.00,1995-08-22,True
+27,Margaret Green,31,"9101 Pine Road, Gotham, NJ 07001",Financial analyst,95000.00,1982-03-10,False
+28,Brian Adams,29,"2345 Maple Lane, Star City, TX 75001",HR specialist,62000.00,1993-12-05,True
+29,Dorothy Baker,42,"6789 Birch Boulevard, Central City, CA 90210",Project manager,105000.00,1974-07-18,False
+30,Ronald Nelson,36,"3456 Cedar Street, Coast City, FL 33101",Graphic designer,55000.00,1997-11-30,True
+31,Helen Carter,47,"7890 Spruce Drive, Keystone City, PA 19001",Sales executive,70000.00,1988-04-25,False
+32,Kevin Mitchell,39,"1234 Elm Street, Springfield, IL 62704",Software developer,75000.00,1990-05-15,False
+33,Betty Perez,28,"5678 Oak Avenue, Metropolis, NY 10001",Marketing manager,85000.00,1995-08-22,True
+34,Jason Roberts,33,"9101 Pine Road, Gotham, NJ 07001",Financial analyst,95000.00,1982-03-10,False
+35,Sandra Turner,30,"2345 Maple Lane, Star City, TX 75001",HR specialist,62000.00,1993-12-05,True
+36,Frank Phillips,44,"6789 Birch Boulevard, Central City, CA 90210",Project manager,105000.00,1974-07-18,False
+37,Ruth Campbell,37,"3456 Cedar Street, Coast City, FL 33101",Graphic designer,55000.00,1997-11-30,True
+38,Dennis Parker,46,"7890 Spruce Drive, Keystone City, PA 19001",Sales executive,70000.00,1988-04-25,False
+39,Maria Evans,35,"1234 Elm Street, Springfield, IL 62704",Software developer,75000.00,1990-05-15,False
+40,Patrick Edwards,40,"5678 Oak Avenue, Metropolis, NY 10001",Marketing manager,85000.00,1995-08-22,True
+41,Linda Collins,31,"9101 Pine Road, Gotham, NJ 07001",Financial analyst,95000.00,1982-03-10,False
+42,Mark Stewart,29,"2345 Maple Lane, Star City, TX 75001",HR specialist,62000.00,1993-12-05,True
+43,Elizabeth Sanchez,42,"6789 Birch Boulevard, Central City, CA 90210",Project manager,105000.00,1974-07-18,False
+44,Charles Morris,36,"3456 Cedar Street, Coast City, FL 33101",Graphic designer,55000.00,1997-11-30,True
+45,Susan Rogers,47,"7890 Spruce Drive, Keystone City, PA 19001",Sales executive,70000.00,1988-04-25,False
+46,Joseph Reed,39,"1234 Elm Street, Springfield, IL 62704",Software developer,75000.00,1990-05-15,False
+47,Patricia Cook,28,"5678 Oak Avenue, Metropolis, NY 10001",Marketing manager,85000.00,1995-08-22,True
+48,Thomas Morgan,33,"9101 Pine Road, Gotham, NJ 07001",Financial analyst,95000.00,1982-03-10,False
+49,Barbara Bell,30,"2345 Maple Lane, Star City, TX 75001",HR specialist,62000.00,1993-12-05,True
+50,Steven King,46,"7890 Spruce Drive, Keystone City, PA 19001",Sales executive,70000.00,1988-04-25,False
