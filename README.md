@@ -6,27 +6,27 @@ Este repositório contém duas análises exploratórias da base de dados públic
 
 ## 📁 Estrutura do Projeto
 
-BigData-Senai/ 
-              ├── Introducao_spark/
-              ├── Importando_arquivo_CSV/
-              ├── Consumindo_Api_test/
-              ├── Analise_com_pyspark/
-              ├── 1-Projeto/
-              ├── 1-Projeto/ 
-              ├── 2-Projeto/ 
-              ├── 3-Projeto/ 
-              ├── 4-Projeto/ 
-              ├── 5-Projeto/ 
-              ├── 6-Projeto/ │ 
-                             ├── Data/ │
-                                       └── Download.txt
-                             ├── notebooks/ │
-                                            └── Analise_De_Acidentes_2024_.ipynb 
-                                            └── Analise_De_Acidentes_2024_v2.ipynb
-                             ├── Script │
-                                            └── Analise_De_Acidentes_2024_.py  
-                                            └── Analise_De_Acidentes_2024_v2.py
-               
+BigData-Senai/
+├── Introducao_spark/
+├── Importando_arquivo_CSV/
+├── Consumindo_Api_test/
+├── Analise_com_pyspark/
+├── 1-Projeto/
+├── 2-Projeto/
+├── 3-Projeto/
+├── 4-Projeto/
+├── 5-Projeto/
+├── 6-Projeto/
+│   ├── Data/
+│   │   └── raw/
+│   │          └── Download_base_dados.txt
+│   ├── Analise_De_Acidentes_2024_.ipynb      # Primeira análise (Spark)
+│   ├── Analise_De_Acidentes_2024_v2.ipynb    # Segunda análise (Pandas)
+│   ├── Analise_De_Acidentes_2024_.py         # Versão script .py da análise 1
+│   └── Analise_De_Acidentes_2024_v2.py       # Versão script .py da análise 2
+├── notebooks/
+└── Script/
+
 
 > 🔍 Os projetos finais estão localizados na pasta `6-Projeto`.
 
