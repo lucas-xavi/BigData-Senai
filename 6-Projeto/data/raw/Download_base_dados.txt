@@ -1,4 +1,0 @@
-https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf - Link para o site do governo que contém a base de 2024 usada no projeto.
-
-https://drive.google.com/file/d/14qBOhrE1gioVtuXgxkCJ9kCA8YtUGXKA/view - Link direto para a base usada.
-
